@@ -14,9 +14,17 @@ Improve supply chain by analyzing sales, profitability, stock levels, and suppli
 
 
 **Data Prep:** Clean and process data.
+
+
 **Profitability:** Analyze sales and profits.
+
+
 **Stock:** Examine stock, sales, and lead times.
+
+
 **Supplier Performance:** Assess costs and delivery times.
+
+
 **Predictive Modeling:** Forecast sales and revenue.
 
 
@@ -24,5 +32,9 @@ Improve supply chain by analyzing sales, profitability, stock levels, and suppli
 
 
 **NumPy:** Data handling.
+
+
 **Pandas:** Data cleaning and analysis.
+
+
 **Matplotlib & Seaborn:** Visualize trends and insights.
