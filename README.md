@@ -4,7 +4,7 @@ Please find the related **Medium** article here:
 https://medium.com/@connect2_raashid199/comprehensive-analysis-of-supply-chain-metrics-and-profitability-6e1a34e35a74
 
 
-****Comprehensive Analysis of Supply Chain Metrics and Profitability****
+**Comprehensive Analysis of Supply Chain Metrics and Profitability**
 
 
 
