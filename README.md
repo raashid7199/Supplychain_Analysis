@@ -7,13 +7,18 @@ https://medium.com/@connect2_raashid199/comprehensive-analysis-of-supply-chain-m
 ****Comprehensive Analysis of Supply Chain Metrics and Profitability****
 
 
+
 This analysis explores supply chain data to identify trends, optimize profitability, and enhance operational efficiency. It covers data cleaning, descriptive and correlation analyses, and examines key factors like production costs, shipping times, and defect rates to pinpoint bottlenecks and guide strategic decisions for improved supply chain management.
+
+
 
 
 **Objective:**
 
 
 Improve supply chain by analyzing sales, profitability, stock levels, and supplier performance, using predictive models for better decisions.
+
+
 
 
 **Key Areas:**
@@ -32,6 +37,8 @@ Improve supply chain by analyzing sales, profitability, stock levels, and suppli
 
 
 **Predictive Modeling:** Forecast sales and revenue.
+
+
 
 
 **Tools:**
